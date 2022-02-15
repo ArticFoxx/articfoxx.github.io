@@ -1,19 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ArticFoxx/articfoxx.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to ArticFox's Archive :D
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Testing
+# Work In Progress
+Thank you for checking my website out!
+This Website is still in work and won't be done until some time.
+
 ## Header 2
+Software is collected from official sources, and never unsafe.
 ### Header 3
+Software hosted would be via IceDrive or pCloud.
 
 - Bulleted
 - List
